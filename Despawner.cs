@@ -1,0 +1,1 @@
+// TODO: Run single tick that despawns stuff. Keeps track of entities when spawned.
